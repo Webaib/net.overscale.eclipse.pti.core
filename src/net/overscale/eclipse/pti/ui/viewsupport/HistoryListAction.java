@@ -30,7 +30,7 @@ import org.eclipse.php.internal.ui.wizards.fields.IDialogFieldListener;
 import org.eclipse.php.internal.ui.wizards.fields.IListAdapter;
 import org.eclipse.php.internal.ui.wizards.fields.LayoutUtil;
 import org.eclipse.php.internal.ui.wizards.fields.ListDialogField;
-import org.eclipse.php.internal.ui.wizards.fields.Separator;
+import net.overscale.eclipse.pti.ui.wizards.fields.Separator;
 import org.eclipse.php.internal.ui.wizards.fields.StringDialogField;
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.graphics.Image;
